@@ -2,6 +2,7 @@
   "name": "return",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gelato0423.github.io/api_demo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -13,7 +14,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "homepage": "https://gelato0423.github.io/api_demo",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
